@@ -28,11 +28,11 @@ As seen from the results, we can actually gather a lot of conclusions based on t
 
 The conclusions that can be drawn from the data, excluding all invasive cancer sites, is that female breast has the highest incidence, with cases steadily increasing but maintaining around 200000 cases. 
 
-5. In problem 5, I created a scatter plot containing each (site, sex) pair in 2000, comparing population with the incidence of cancer.
+5. In problem 5, I created a scatter plot containing each (site, sex) pair in 2000, comparing population with the incidence of cancer cases.
 
 ![alt text](image-1.png)
 
-The scatterplot shows us the males and females, and it actually gives us quite a bit of understanding. We understand that in the year 2000 there were more females than males, and that both sex's have a similar range of data. In that the data mainly lies near 200000 cases with the exception of two outliers above 600000 cases. It also tells us that even though there were more females in the population, males had a high number of cases. Which aligns with the data from previous graphs showing males have a higher incidence compared to women. 
+The scatterplot shows us the males and females, and it actually gives quite a bit of understanding. We understand that in the year 2000 there were more females than males, and that both sex's have a similar range of data. In that the data mainly lies near 200000 cases with the exception of two outliers above 600000 cases. It also tells us that even though there were more females in the population, males had a high number of cases. Which aligns with the data from previous graphs showing males have a higher number of cases compared to women. 
 
 6. In problem 6, I got a headache from the amount of bars and tiny lettering, but for the sake of the assignment I did my best. 
 
