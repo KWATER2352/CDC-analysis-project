@@ -26,7 +26,7 @@ As seen from the results, we can actually gather a lot of conclusions based on t
 
 ![alt text](image-5.png)
 
-The conclusions that can be drawn from the data, excluding all invasive cancer sites, is that female breast has the highest incidence, with cases steadily increasing but maintaining around the 20000 cases range. 
+The conclusions that can be drawn from the data, excluding all invasive cancer sites, is that female breast has the highest incidence, with cases steadily increasing but maintaining around 200000 cases. 
 
 5. In problem 5, I created a scatter plot containing each (site, sex) pair in 2000, comparing population with the incidence of cancer.
 
