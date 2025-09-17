@@ -44,7 +44,7 @@ I created a bar plot based on males and the incidence of cancer in the year 2000
 
 ![alt text](image-3.png)
 
-While the figure displays only a few rows, that is enough to gather the conclusion that males have the highest incidence of cases every year. Which tracks with our previous figures stating similarly. In fact, all around a conclusion can be drawn that men tend to be at a higher risk for cancer than woman.
+While the figure displays only a few rows, that is enough to gather the conclusion that males have the highest incidence of cases every year. This tracks with previous figures, which state similarly. In fact, an all-around conclusion can be drawn that men tend to be at a higher risk for cancer than women, and that males are more at risk for genital related cancer than any other cancer. Same with females. In that females are still at a high risk, though less than males, and they are at risk of breast-related cancer more than any other cancer. This excludes, of course, All Invasive Cancers Combined, which would leave us with no conclusions so yeah. 
 
 8. In problem 8, I created a pivot table with a row for each cancer site, column for each year, and a value equal to the total incidence of males and females combined. 
 
