@@ -20,7 +20,7 @@ This is a project that pulls from CDC data that has been cleaned. We utilize fil
 
 ![alt text](image.png)
 
-As seen from the results, we can actually gather a lot of conclusions based on the incidence relating to sex. There was a huge dip in cases in 2020 (we can infer that it could be due to the pandemic due to the year 2020, could be attributed to people not getting diagnosed at the time, not going to the hospital). But we note that there is a steady rise in the incidence of cases throughout the years and that men always have a higher incidence of cancer cases compared to women.
+As seen from the results, we can actually gather a lot of conclusions based on the incidence relating to sex. There was a huge dip in cases in 2020 (we can infer that it could be due to the pandemic due to the year 2020, could be attributed to people not getting diagnosed at the time, not going to the hospital). But note that there is a steady rise in the incidence of cases throughout the years and that men always have a higher incidence of cancer cases compared to women.
 
 4. For problem 4 I created a line plot for females noting their incidence and cancer site. 
 
